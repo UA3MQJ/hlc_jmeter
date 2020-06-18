@@ -1,4 +1,4 @@
-Запуск jmeter без gui внутки докера с экспортером в prometheus
+Запуск jmeter без gui внурки докера с экспортером в prometheus
 
 test_plan.jmx экспортит метрики ResponseTime (с персентилями), Ratio (он же rps)
 
